@@ -21,4 +21,4 @@
 ### Solution
   Used MPI to scatter a equal seperate the task. Then I used the Ring algorithm to distribute the taks.
   After the final results are gathered, they are summed so that the result is finished.
-# MPI
+
